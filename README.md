@@ -1,54 +1,45 @@
-<div align="center">
-
 # Ali Ennadafy
 
-<img src="https://demolab.com" alt="Typing SVG" />
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
 I'm a **Software Test Engineer** passionate about building reliable, maintainable, and scalable test automation solutions. I focus on improving software quality through effective test design, API and UI automation, CI/CD, and continuous quality engineering.
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+### 💻 Programming Languages
+* **JavaScript** 
+* **Python** 
+* **SQL** 
+* **C**
 
-### Programming Languages
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![C](https://shields.io)
+### 🧪 Testing & QA
+* **Playwright (UI Automation)**
+* **Postman (API Testing)**
+* **Manual & Exploratory Testing**
 
-### Testing & QA
-![Playwright](https://shields.io)
-![Postman](https://shields.io)
-![Manual Testing](https://shields.io)
-
-### Tools & Platforms
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-![Linux](https://shields.io)
-
-</div>
+### 🔧 Tools & Platforms
+* **Git & GitHub**
+* **VS Code**
+* **Linux**
 
 ---
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <!-- استخدام سيرفر ميرور مستقر للإحصائيات -->
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
+<p align="center">
+  <img height="180" src="https://shion.dev" alt="Ali Ennadafy's GitHub Stats" />
+  <img height="180" src="https://shion.dev" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <!-- Streak Stats المستقرة -->
-  <img src="https://demolab.com" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://demolab.com" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -58,7 +49,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 <tr>
 <td width="33%" valign="top">
 
-###  Short Term (2026)
+### Short Term (2026)
 - ✅ Python Fundamentals
 - ✅ SQL basic
 - ✅ Manual Testing
@@ -71,7 +62,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 </td>
 <td width="33%" valign="top">
 
-###  Mid Term (2026 - 2027)
+### Mid Term (2026 - 2027)
 - 🔄 JavaScript / TypeScript (Advanced for QA)
 - 🔄 QA Automation (Playwright)
 - 📝 Mobile Testing (Appium)
@@ -86,7 +77,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 </td>
 <td width="33%" valign="top">
 
-###  Long Term (2027+)
+### Long Term (2027+)
 - 📝 SDET / QA Automation Engineer
 - 📝 Continuous Learning
 - 📝 AI-assisted Test Automation
@@ -97,21 +88,14 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-## 🤝 Let's Connect & Find Me Online
+## 🤝 Let's Connect
 
-<div align="center">
+البريد الإلكتروني: aennadafy@gmail.com
+<br>
+حساب LinkedIn الرسمي: [اضغط هنا لزيارة الحساب](https://linkedin.com)
+<br>
+الموقع الجغرافي: المغرب 🇲🇦 (متاح للعمل عن بعد عالمياً)
 
-[![Email](https://shields.io)](mailto:aennadafy@gmail.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![GitHub](https://shields.io)](https://github.com)
-
-<br />
-
-📍 **Location:** Morocco (Open to Remote Worldwide)
-
-<img src="https://vercel.app" width="100%"/>
-
-</div>
 
 
 
