@@ -2,7 +2,7 @@
 
 # Ali Ennadafy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software+Test+Engineer;QA+Automation+%7C+API+%26+UI+Testing;JavaScript+%7C+Playwright+%7C+Postman" alt="Typing SVG" />
+<img src="https://demolab.com" alt="Typing SVG" />
 
 ##  About Me
 
@@ -17,21 +17,21 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 <div align="center">
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![C](https://shields.io)
 
 ### Testing & QA
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Playwright](https://shields.io)
+![Postman](https://shields.io)
+![Manual Testing](https://shields.io)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
+![Linux](https://shields.io)
 
 </div>
 
@@ -40,16 +40,14 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 ##  GitHub Analytics
 
 <div align="center">
+ 
   <img height="180em" src="https://vercel.app"/>
   <img height="180em" src="https://vercel.app"/>
 </div>
 
 <div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://vercel.app" alt="Contribution Graph"/>
+  <!-- Streak Stats المستقرة -->
+  <img src="https://demolab.com" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -103,16 +101,17 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aennadafy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aennadafy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ennadafy-ab16331a8/)
+[![Email](https://shields.io)](mailto:aennadafy@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![GitHub](https://shields.io)](https://github.com)
 
 <br />
 
  **Location:** Morocco (Open to Remote Worldwide)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
+<img src="https://vercel.app" width="100%"/>
 
 </div>
+
 
 
