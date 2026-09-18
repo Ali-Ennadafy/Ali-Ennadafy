@@ -4,7 +4,7 @@
 
 <img src="https://demolab.com" alt="Typing SVG" />
 
-##  About Me
+## 🚀 About Me
 
 I'm a **Software Test Engineer** passionate about building reliable, maintainable, and scalable test automation solutions. I focus on improving software quality through effective test design, API and UI automation, CI/CD, and continuous quality engineering.
 
@@ -12,7 +12,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-##  Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -37,10 +37,10 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-##  GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
- 
+  <!-- استخدام سيرفر ميرور مستقر للإحصائيات -->
   <img height="180em" src="https://vercel.app"/>
   <img height="180em" src="https://vercel.app"/>
 </div>
@@ -52,7 +52,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-##  Learning Roadmap
+## 🎯 Learning Roadmap
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-##  Let's Connect & Find Me Online
+## 🤝 Let's Connect & Find Me Online
 
 <div align="center">
 
@@ -107,11 +107,12 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 <br />
 
- **Location:** Morocco (Open to Remote Worldwide)
+📍 **Location:** Morocco (Open to Remote Worldwide)
 
 <img src="https://vercel.app" width="100%"/>
 
 </div>
+
 
 
 
