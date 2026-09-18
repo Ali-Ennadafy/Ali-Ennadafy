@@ -90,7 +90,6 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 [![Email](https://img.shields.io/badge/Email-aennadafy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aennadafy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ennadafy-ab16331a8/)
-[![GitHub](https://shields.io)](https://github.com)
 
 <br />
 
