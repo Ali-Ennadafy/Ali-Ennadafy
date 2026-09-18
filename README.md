@@ -37,26 +37,9 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <!-- بطاقة إحصائيات الحساب العامة -->
-  <img height="180" src="https://vercel.app" alt="Ali Ennadafy's GitHub Stats" />
-  
-  <!-- بطاقة اللغات الأكثر استخداماً -->
-  <img height="180" src="https://vercel.app" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br />
-  <!-- بطاقة تتبع أيام العمل المتتالية -->
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
-
----
 
 
-## 🎯 Learning Roadmap
+##  Learning Roadmap
 
 <table>
 <tr>
