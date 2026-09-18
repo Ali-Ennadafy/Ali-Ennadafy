@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software+Test+Engineer;QA+Automation+%7C+API+%26+UI+Testing;JavaScript+%7C+Playwright+%7C+Postman" alt="Typing SVG" />
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Software Test Engineer** passionate about building reliable, maintainable, and scalable test automation solutions. I focus on improving software quality through effective test design, API and UI automation, CI/CD, and continuous quality engineering.
 
@@ -12,7 +12,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm a **Software Test Engineer** passionate about building reliable, maintainabl
 
 ---
 
-## 🤝 Let's Connect & Find Me Online
+##  Let's Connect & Find Me Online
 
 <div align="center">
 
