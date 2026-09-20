@@ -6,7 +6,7 @@
 
 ##  About Me
 
-I'm a **Software Test Engineer** passionate about building reliable, maintainable, and scalable test automation solutions. I focus on improving software quality through effective test design, API and UI automation, CI/CD, and continuous quality engineering.
+I'm a **QA Automation Engineer** passionate about building reliable, maintainable, and scalable test automation solutions. I focus on improving software quality through effective test design, API and UI automation, CI/CD, and continuous quality engineering.
 
 </div>
 
