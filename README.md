@@ -93,8 +93,6 @@ I'm a **QA Automation Engineer** passionate about building reliable, maintainabl
 
 <br />
 
-📍 **Location:** Morocco (Open to Remote Worldwide)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
 
 </div>
