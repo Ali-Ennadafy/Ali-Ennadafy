@@ -74,7 +74,7 @@ I'm a **QA Automation Engineer** passionate about building reliable, maintainabl
 <td width="33%" valign="top">
 
 ###  Long Term (2027+)
-- 📝 SDET / QA Automation Engineer
+- 📝 SDET / Strong QA Automation Engineer
 - 📝 Continuous Learning
 - 📝 AI-assisted Test Automation
 
